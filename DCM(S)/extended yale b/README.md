@@ -1,9 +1,9 @@
 Paper : Deep Cascade Model based Face Recognition: When Deep-layered Learning Meets Small Data<br />
-Author : Lei Zhang, Ji Liu, Bob Zhang, David Zhang, and Ce Zhang<br />
+Author : Lei Zhang, Ji Liu, Bob Zhang, David Zhang, and Ce Zhu<br />
 Published in Transactions on Image Processing<br />
 Contact : jiliu@cqu.edu.cn<br />
 
-This package contains cleaned up codes for the submodel DCM(S), including:<br />
+This package contains codes for the submodel DCM(S), including:<br />
 demo.m: the main demo codes<br />
 train_test.m: the codes split dataset into training set and testing set<br />
 get_feature.m: the codes solve SRC model and compute softmax features <br />
