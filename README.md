@@ -3,5 +3,5 @@ Author : Lei Zhang, Ji Liu, Bob Zhang, David Zhang, and Ce Zhu<br />
 Published in Transactions on Image Processing<br />
 Contact : jiliu@cqu.edu.cn<br />
 
-This package contains cleaned up codes for the two submodels DCM(S) and DCM(N)
+This package contains codes for the two submodels DCM(S) and DCM(N)
 
